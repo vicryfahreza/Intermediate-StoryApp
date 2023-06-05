@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">StoryApp</string>
+    <string name="login_welcome">Welcome To StoryApp</string>
+    <string name="login_to_register">Create Account</string>
+    <string name="register_info">Create Your Account</string>
+    <string name="register_to_login">Already Have Account?</string>
+    <string name="register_success">Please Login With Your Account</string>
+    <string name="add_story_camera">Camera</string>
+    <string name="add_story_gallery">Gallery</string>
+    <string name="add_story_upload">Upload Story</string>
+    <string name="add_story_failed">Please Input Image From Camera Or Gallery</string>
+    <string name="detail_username">Username</string>
+    <string name="detail_description">Description :</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="normal_type">Normal</string>
+    <string name="satellite_type">Satellite</string>
+    <string name="terrain_type">Terrain</string>
+    <string name="hybrid_type">Hybrid</string>
+    <string name="loading_retry">Try Again</string>
+    <string name="loading_timeout">Timeout</string>
+    <string name="detail_image">Detail Image</string>
+    <string name="add_image">Add Image</string>
+    <string name="row_image">Story Image</string>
+    <string name="password_input">Input for Password is more than 8 Character</string>
+    <string name="email_input">Please Input Email Correctly</string>
+
+</resources>
